@@ -13,9 +13,21 @@ Software: Jupyter Notebook, Tableau
 Module: Pandas
 
 # Results
+For all sex we the number of  20-40 minutes exceeds 140k & the amount of minutes useds is between 
 ![image](https://user-images.githubusercontent.com/31675832/152664877-db1101f4-ff6f-4774-819e-a6b243b5d99f.png)
+
+Males use the bike longer than femails in blue and unknown in red 
 ![image](https://user-images.githubusercontent.com/31675832/152664889-b713b531-6b4b-4f5c-9428-6197ef8492be.png)
+
+The time we see used the most is 5a-9am & 5pm-8pm
 ![image](https://user-images.githubusercontent.com/31675832/152664904-8ee29b54-015b-45eb-bab2-7a27f73c2f89.png)
+
+During the times must used we see again it for males
 ![image](https://user-images.githubusercontent.com/31675832/152664920-0e4444e8-7e81-41d5-80c5-bedac1f91f1b.png)
+
+The most common days of use we see are mals on thurday & Friday
 ![image](https://user-images.githubusercontent.com/31675832/152664945-21f50ccc-5d0e-4239-8583-57bb50dc08b5.png)
+
+# Summary
 [https://public.tableau.com/app/profile/kyra.hull/viz/CheckoutTimesforUsers_16440726143560/UserTripsbyGenderbyWeekday?publish=yes]
+Here we see the summary of usage of bikes for all genders, times that are most used and days of the week that are important. We see that the target market for the bike usage should focus on males around 5a-9am & 5pm-8pm. It would be interesting to find out ways to engage women to use bikes. Maybe running more research to see what ways to market to women and with looking into more the ages we can be able to easier to market correctly to each group.
