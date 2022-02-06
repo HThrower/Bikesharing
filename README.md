@@ -30,4 +30,5 @@ The most common days of use we see are mals on thurday & Friday
 
 # Summary
 [https://public.tableau.com/app/profile/kyra.hull/viz/CheckoutTimesforUsers_16440726143560/UserTripsbyGenderbyWeekday?publish=yes]
+
 Here we see the summary of usage of bikes for all genders, times that are most used and days of the week that are important. We see that the target market for the bike usage should focus on males around 5a-9am & 5pm-8pm. It would be interesting to find out ways to engage women to use bikes. Maybe running more research to see what ways to market to women and with looking into more the ages we can be able to easier to market correctly to each group.
