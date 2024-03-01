@@ -13,7 +13,7 @@ Software: Jupyter Notebook, Tableau
 Module: Pandas
 
 # Results
-For all sex we the number of  20-40 minutes exceeds 140k & the amount of minutes useds is between 
+For all sex we the graphing of number of trips by duration show that the vast majority of trips taken on CitiBike bikes are under an hour in length. More specifically, most trips are under a half-hour in length, with a swift dropoff in number of rides over an hour in length. 
 ![image](https://user-images.githubusercontent.com/31675832/152664877-db1101f4-ff6f-4774-819e-a6b243b5d99f.png)
 
 Males use the bike longer than femails in blue and unknown in red 
