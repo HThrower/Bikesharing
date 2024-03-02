@@ -6,7 +6,9 @@ In this analysis, we explore Tableau, a data analysis and visualization tool tha
 Tableau will help us by
 
 -Providing the tools to create a powerful analytic dashboard
+
 -Tell a clear story
+
 -Can easily share with others In fact, we use three core components worksheets, dashboards, and stories to dive in and level up our analysis with the most popular data analytics and visualization too, Tableau.
 
 ## Resources
